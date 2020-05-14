@@ -36,5 +36,14 @@ namespace Common
             get { return _Name; }
             set { _Name = value; }
         }
+
+        //Learning
+        /*
+        private static RandomNameGen()
+        {
+        Random NameIndex = new Random();
+        int IndexNumber = NameIndex.Next(1, 207);
+        }
+        */
     }
 }
